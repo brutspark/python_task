@@ -1,5 +1,6 @@
-[README.md](https://github.com/brutspark/python_task/files/7045893/README.md)
+
 # python_task
+
 Python task for Krisp
 
 This program is written for testing the audio file for n(noise) or c(clean) voice.
