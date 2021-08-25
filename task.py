@@ -1,3 +1,4 @@
+# task file for Krisp, please be sure you have installed modules
 import multiprocessing
 from playsound import playsound
 import sys
