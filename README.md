@@ -10,5 +10,5 @@ playsound, multiprocessing, sys and json:
 Please be sure you have installed by pip3 install <module_name>
 And its generating output JSON file for mentioning was the file noise or clean voice.
 I am currently working on improvments to complete task fully.
-Example of usage: The files shoudl be in the same directory
+Example of usage: The files should be in the same directory
 $ python3 task_final.py
